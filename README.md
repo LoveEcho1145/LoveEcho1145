@@ -6,8 +6,8 @@
 - 📝 开发信条：课余敲码，把兴趣变成看得见的小成果～
 
 ### 📊 GitHub 统计
-![LoveEcho1145's GitHub Stats](https://stats.justsong.cn/api/github-stats?username=LoveEcho1145&show_icons=true&theme=github&count_private=true&hide_border=true)
-![Top Langs](https://stats.justsong.cn/api/top-langs/?username=LoveEcho1145&layout=compact&theme=github&hide_border=true&langs_count=5)
+![](https://stats.justsong.cn/api/github-stats?username=LoveEcho1145&show_icons=true&theme=github&count_private=true&hide_border=true)
+![](https://stats.justsong.cn/api/top-langs/?username=LoveEcho1145&layout=compact&theme=github&hide_border=true&langs_count=5)
 
 ### 🔥 我的代表项目
 | 项目名称 | 技术栈 | 项目介绍 |
