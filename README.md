@@ -16,7 +16,6 @@
 | [NewYear 新年倒计时](https://github.com/LoveEcho1145/NewYear) | TypeScript | 课余开发的新年倒计时小工具，简单实用的前端小项目 |
 
 ### 📫 联系我
-- 博客：[010912.top](https://010912.top)
 - GitHub：@LoveEcho1145
 - 邮箱：brody@010912.top
 
