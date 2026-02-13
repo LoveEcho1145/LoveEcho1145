@@ -14,6 +14,7 @@
 | 项目名称 | 技术栈 | 项目介绍 |
 | ---- | ---- | ---- |
 | [NewYear 新年倒计时](https://github.com/LoveEcho1145/NewYear) | TypeScript | 课余开发的新年倒计时小工具，简单实用的前端小项目 |
+| [考试监考系统](https://github.com/LoveEcho1145/exam-proctor-system) | Python | 为参赛开发的考试监考系统，轻量易用的自动化监考桌面项目 |
 
 ### 📫 联系我
 - GitHub：@LoveEcho1145
